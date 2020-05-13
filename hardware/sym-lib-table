@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name ng_conn)(type Legacy)(uri /Users/nelsongauthier/Code/nelgau/ice-programmer/lib/nelgau/symbols/ng_conn.lib)(options "")(descr ""))
+  (lib (name ng_ftdi)(type Legacy)(uri /Users/nelsongauthier/Code/nelgau/ice-programmer/lib/nelgau/symbols/ng_ftdi.lib)(options "")(descr ""))
+  (lib (name ng_memory)(type Legacy)(uri /Users/nelsongauthier/Code/nelgau/ice-programmer/lib/nelgau/symbols/ng_memory.lib)(options "")(descr ""))
+  (lib (name ng_osc)(type Legacy)(uri /Users/nelsongauthier/Code/nelgau/ice-programmer/lib/nelgau/symbols/ng_osc.lib)(options "")(descr ""))
+  (lib (name ng_regulator)(type Legacy)(uri /Users/nelsongauthier/Code/nelgau/ice-programmer/lib/nelgau/symbols/ng_regulator.lib)(options "")(descr ""))
+)
